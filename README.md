@@ -1,1 +1,1 @@
-# My-first-python-project-calculator
+# My python mini projects
