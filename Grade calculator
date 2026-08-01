@@ -1,9 +1,0 @@
-a = 95  # physics
-b = 95  # chemistry
-c = 98  # maths
-d = 95  # biology
-e = 98  # kannada
-f = 91  # english
-percentage = (a + b + c + d + e + f) / 600 * 100
-
-print("percentage")
